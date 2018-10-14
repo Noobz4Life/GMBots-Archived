@@ -1,2 +1,4 @@
 # GMBots
-This will be updated when GMBots is released, but for the meantime, You can see what functions and hooks you will be able to use.
+This will be updated when GMBots is released, but right now, the wiki is being made!
+
+Wiki: https://github.com/Noobz4Life/GMBots/wiki
