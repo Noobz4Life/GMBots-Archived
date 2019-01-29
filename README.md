@@ -18,8 +18,10 @@ Or, you can make a addon for GMBots, by doing that you have access to functions 
 
 # When is it released?
 
-Parts of it are done already, it's just that I need to improve the pathfinding.
-Once I fix the pathfinding, I will release GMBots on the Steam Workshop, and on this github page.
+~~Parts of it are done already, it's just that I need to improve the pathfinding.
+Once I fix the pathfinding, I will release GMBots on the Steam Workshop, and on this github page.~~
+
+GMBots is now released in beta. Please note that the pathfinding is really buggy at the moment.
 
 # How do I install this?
 
