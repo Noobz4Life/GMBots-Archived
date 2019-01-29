@@ -14,7 +14,7 @@ GMBots is a addon for Garry's Mod, which is supposed to give servers temporary p
 # How do they work?
 
 You can create your own bot addon using the "StartCommand" hook.
-Or, you can make a addon for GMBots!
+Or, you can make a addon for GMBots, by doing that you have access to functions and hooks that I added, such as the Pathfinding function.
 
 # When is it released?
 
