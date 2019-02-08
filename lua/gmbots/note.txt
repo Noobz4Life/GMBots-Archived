@@ -1,4 +1,4 @@
 GMBots made by Noobz4Life
 
 Please do not copy my addons. Thank you.
-If you find any bugs/errors, please report to me through the workshop page.
+If you find any bugs/errors, please report to me through the issues page on github.
