@@ -1,5 +1,7 @@
-# Not Released Yet
-This will be updated when GMBots is released, but right now, this github is being made for when it is released!
+~~# Not Released Yet~~
+~~This will be updated when GMBots is released, but right now, this github is being made for when it is released!~~
+
+GMBots is now released in beta.
 
 Wiki: https://github.com/Noobz4Life/GMBots/wiki
 
