@@ -1,3 +1,5 @@
+-- Older verison of sent_pathfinding incase I had to revert for some reason.
+
 if SERVER then AddCSLuaFile() end
 
 ENT.Base = "base_nextbot"
