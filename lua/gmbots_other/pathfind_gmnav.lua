@@ -1,4 +1,7 @@
 -- This code is for pathfinding if you have gm_navigation, otherwise it will use nextbot pathfinding.
+
+-- This code currently does not work.
+
 CreateConVar("gmbots_dev_mode",0)
 developerMode = 0
 local plymeta = FindMetaTable( "Player" )
