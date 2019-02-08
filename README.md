@@ -29,13 +29,11 @@ It is currently only released on this Github page and not the Steam Workshop.
 There is 2 ways.
 
 ## Using Steam Workshop.
-~~
-1. Go to the workshop page. (See below)
-2. Press subscribe.
-3. And that's it!
+~~1. Go to the workshop page. (See below)~~
+~~2. Press subscribe.~~
+~~3. And that's it!~~
 
-Steam Workshop Page: (update later)
-~~
+~~Steam Workshop Page: (update later)~~
 
 Not released on steam workshop yet.
 
