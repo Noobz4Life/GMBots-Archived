@@ -52,3 +52,8 @@ Not released on steam workshop yet.
 9. And that should be it!
 
 Steam Directory (probably): [drive]/Program Files (x86)/Steam
+
+
+# Any bugs you currently know about?
+
+1. Pathfinding really does not work all that well.
