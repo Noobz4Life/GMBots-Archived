@@ -41,15 +41,13 @@ Not released on steam workshop yet.
 
 ## Installing it manually
 
-1. Go to the drive Garry's Mod is installed on.
-2. Go to the steam directory. (See below)
-3. Open steamapps.
-4. Open common.
-5. Open Garry's Mod
-6. Open garrysmod
-7. Open addons (or create it, if it doesn't exist)
-8. Extract the zip into the addons folder.
-9. And that should be it!
+1. Right click on Garry's Mod in your steam library.
+2. Click Properties.
+3. Go to Local Files.
+4. Click "Browse Local Files"
+5. Open the "garrysmod" folder
+6. Open the "addons" folder (If it does not exist, create it.)
+7. Extract the .zip into the addons folder.
 
 Steam Directory (probably): [drive]/Program Files (x86)/Steam
 
