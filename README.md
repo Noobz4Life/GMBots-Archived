@@ -56,4 +56,4 @@ Steam Directory (probably): [drive]/Program Files (x86)/Steam
 
 # Any bugs you currently know about?
 
-1. Pathfinding really does not work all that well.
+1. Pathfinding really does not work all that well, I have tried to fix some issues, but they will still sometimes walk into walls.
