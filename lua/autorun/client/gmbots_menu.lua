@@ -1,4 +1,6 @@
 function OpenGMBotsMenu(ply,cmd,args)
+	return
+
 	local frame = vgui.Create( "DFrame" )
 	frame:SetSize( ScrW()/3, ScrH()/1.1 )
 	frame:Center()
@@ -55,7 +57,7 @@ function OpenGMBotsMenu(ply,cmd,args)
 		end
 	end
 end
-
+--[[
 concommand.Add("gmbots_adminmenu",function(ply,cmd,args)
 	if not ply then
 		ply = LocalPlayer()
@@ -64,3 +66,4 @@ concommand.Add("gmbots_adminmenu",function(ply,cmd,args)
 		OpenGMBotsMenu(ply,cmd,args)
 	end
 end)
+]]
