@@ -23,8 +23,8 @@ BOTNames = {  -- This will set what the bots will be named, every bot has "BOT" 
 hook.Add("GMBotsBotAdded","GamemodeBotAdded",function(bot) -- This hook gets ran when a bot is added, from bot quota or the gmbots_bot_add command.
 	if bot and bot:IsValid() then
 		bot.Target = nil
-		ply.LastMurder = CurTime()
-		ply.CanSayMurderer = true
+		bot.LastMurder = CurTime()
+		bot.CanSayMurderer = true
 	end
 end)
 
@@ -46,7 +46,7 @@ function GMBotsStart(ply,cmd)
 						ply:Debug("Resetting round because Murderer is stuck!")
 						ply:Kill()
 					else
-						ply:Debug(ply.MurderAntistuck-CurTime())
+						--ply:Debug(ply.MurderAntistuck-CurTime())
 					end
 					if ply:Visible(ply.Target) then
 						local dist = ply:GetPos():Distance(ply.Target:GetPos())
