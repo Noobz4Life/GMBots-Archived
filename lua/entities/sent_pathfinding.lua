@@ -46,7 +46,9 @@ function ENT:ChasePos( options )
 		if self.P:GetAge() > 0.1 then
 			self.P:Compute( self, self.PosGen )
 		end
-		self.P:Draw()
+		if GetConVar("gmbots_debug_mode"):GetInt() > 0 then
+			self.P:Draw()
+		end
 		
 		if self.loco:IsStuck() then
 			self:HandleStuck()
