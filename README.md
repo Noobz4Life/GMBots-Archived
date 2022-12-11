@@ -5,7 +5,7 @@
 
 GMBots is now released in beta.
 
-Wiki: https://github.com/Noobz4Life/GMBots/wiki
+Wiki: https://github.com/Noobz4Life/GMBots-Archived/wiki
 
 
 
